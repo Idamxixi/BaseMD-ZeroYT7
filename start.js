@@ -3,13 +3,13 @@
 **/
 
 /**
-* Create By Zero YT7
-* Contact Me on wa.me/6285157740529
+* Create By ｉｄａｍｘｉｘｉﾏ
+* Contact Me on wa.me/6285691890852
 * Follow Me On All Sosial Media
-* Instagram : @Zero_YT7
-* Tiktok : @_zeroyt7
-* Github : Zero-YT7
-* Youtube : Zero YT7
+* Instagram : @idam_unyi10
+* Tiktok : @idamxixi
+* Github : Idamxixi
+* Youtube : ｉｄａｍｂｏｔｚ诶
 **/
 
 /**
